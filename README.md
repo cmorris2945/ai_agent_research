@@ -15,6 +15,9 @@ is mandatory as you can not use the ones in this repot.
 ## Research lab 3.
 # Replicant of myself using Python programming and GPT, then using Google Gemini to evaluate the answer....
 
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0e65d5a4-85ad-4b1c-bf7d-0d8d1690de98" />
+
+
 
 
 
