@@ -9,3 +9,11 @@ This is a repository of my agentic ai workflows I use in my research.
 If anyone would like to replicate this, just keep in mind you will have to have your OWN api key to access
 any of the LLM's used in this experiment. Also creating your own environmental variables and file
 is mandatory as you can not use the ones in this repot.
+
+
+
+## Research lab 3.
+# Replicant of myself using Python programming and various LLM models....
+
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b5e3a670-7201-4f2d-a993-39a2974dfe03" />
+
