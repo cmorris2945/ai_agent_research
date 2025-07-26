@@ -13,7 +13,9 @@ is mandatory as you can not use the ones in this repot.
 
 
 ## Research lab 3.
-# Replicant of myself using Python programming and various LLM models....
+# Replicant of myself using Python programming and GPT, then using Google Gemini to evaluate the answer....
 
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/b5e3a670-7201-4f2d-a993-39a2974dfe03" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/5b9e94ea-fe0c-4f7a-8483-28e38afa8740" />
+
+
 
