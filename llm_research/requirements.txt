@@ -4,3 +4,7 @@ gradio
 pypdf
 openai
 openai-agents
+typing
+langgraph
+langchain
+python-dotenv
