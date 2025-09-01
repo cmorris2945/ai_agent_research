@@ -1,5 +1,6 @@
-# ai_agent_research
-This is a repository of my agentic ai workflows I use in my research.
+# AI AGENT RESEARCH REPOT.   
+# This is a repository of my agentic ai workflows I use in my research.
+## There are many projects in this repot and README file to explain everything. I tried my best to separate everything for better organization.
 
 
 
@@ -16,6 +17,10 @@ is mandatory as you can not use the ones in this repot.
 # Replicant of myself using Python programming and GPT, then using Google Gemini to evaluate the answer....
 
 <img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/0e65d5a4-85ad-4b1c-bf7d-0d8d1690de98" />
+
+###########################################################################################################################################################################################################################################################################################################################################################################################################################################################
+
+
 
 
 # 🧭 LangGraph Travel Orchestrator (LLM + Tools)
