@@ -189,18 +189,18 @@ flowchart TD
 ## 🧪 Extending
 - Add real booking APIs behind the tools (e.g., Amadeus, Expedia Rapid, or your internal services).
 - Plug in observability (LangSmith / custom callbacks) to trace tool calls.
-- Swap models (e.g., `gpt-4o`, `o4-mini`) by changing the `ChatOpenAI` init params.
+- Swap models (e.g., `gpt-4o`, `o4-mini`) by changing the `ChatOpenAI` init params. 
 
 ---
 
-## 📁 Suggested Repo Layout
+## 📁 Repo Layout
 
 ```
 .
 ├─ app.py
 ├─ README.md
-├─ requirements.txt  # optional: pin versions
-└─ .env              # optional: OPENAI_API_KEY=...
+├─ requirements.txt   
+└─ .env             
 ```
 
 ---
